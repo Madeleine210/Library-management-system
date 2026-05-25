@@ -162,11 +162,5 @@ The program uses robust validation functions:
 - `@classmethod` : For accessing class variables
 - `@property` : For creating computed attributes
 
-##  Future Improvements
 
-- Save data to a JSON file
-- Add a book search feature
-- Implement a reservation system
-- Create a graphical user interface (GUI)
-- Add a late fee penalty system
 
