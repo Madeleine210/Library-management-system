@@ -4,6 +4,12 @@
 
 This project is a library management system developed in Python as part of group assignment 1 for the Advanced Programming course. It manages books, members, and calculates library statistics.
 
+## Group Menbers
+- Konombo Madeleine
+- Ouedraogo Adele
+- Ouedraogo Abdoulaye
+- Sanfo Madi
+
 ##  Assignment Goals
 
 This program meets all assignment requirements:
