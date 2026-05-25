@@ -170,17 +170,3 @@ The program uses robust validation functions:
 - Create a graphical user interface (GUI)
 - Add a late fee penalty system
 
-##  Author
-
-**[Your Name]**
-- Course : Advanced Programming
-- Assignment : Group 1
-- Date : May 2026
-
-##  License
-
-This project is developed for educational purposes as part of the Advanced Programming course.
-
----
-
-**Note** : This program was designed to demonstrate mastery of core Python concepts, inheritance, magic methods, and decorators, in accordance with the assignment requirements.
